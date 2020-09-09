@@ -1,0 +1,53 @@
+.sidebar {
+    height: 100%;
+    background: #fff !important;
+    margin-left: 66px;
+    
+}
+.ant-layout-sider {
+    position: fixed !important;
+    border-right: 1px solid rgb(236, 233, 236);
+    height: 100%;
+}
+.sidebar-header {
+    background-color: #fff;
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
+.menu {
+    padding: 0;
+}
+.Menu-title {
+    color: rgb(29, 28, 28);
+    padding-left: 10px;
+}
+.home-icon {
+    color: white;
+    background-color: pink;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 9px;
+}
+.anticon svg {
+    display: inline-flex;
+    margin-top: 5px;
+}
+.sidebar-header-style {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.filterboard-input {
+    border: none;
+    outline: none;
+    height: 20px;
+    width: 120px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.icon-grey {
+    color: grey;
+    vertical-align: text-top;
+ }

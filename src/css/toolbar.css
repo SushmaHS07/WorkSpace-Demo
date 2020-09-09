@@ -1,0 +1,21 @@
+.toolbar {
+    height: 100%;
+    width: 66px;
+    background-color: #292f4c;
+    color: #FFFFFF;
+    position: fixed;
+    text-align: center;
+    line-height: 50px;
+}
+.toobar1{
+    height: 65%;
+    max-height: 70vh;
+}
+.toobar2 {
+    height: 35%;
+    max-height: 30vh;
+}
+
+.material-icons, .question-mark {
+    font-size: 24px;
+} 

@@ -1,0 +1,13 @@
+.container {
+    margin-left: 266px;
+    padding: 2rem;
+    height: 100%;
+    background-color: #fff;
+}
+.icon-plus {
+    font-size: 24px;
+}
+.delete-icon {
+    color: red !important;
+    font-size: 20px;
+}
